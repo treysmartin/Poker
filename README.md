@@ -8,7 +8,7 @@ Past that, the user is able to play the game with a very simple gameplay loop.
 Upon exiting the game, the game is automatically saved with a new file being created on the computer.
 
 Credits-
-The game was developed as part of the model-views-controller methodology.
-The views were done by group member 2.
-The model was programmed by me, this includes the very basic opponent a.i.
+The game was developed as part of the model-views-controller methodology.\n
+The views were done by group member 2.\n
+The model was programmed by me, this includes the very basic opponent a.i.\n
 The controller was worked on by me, group member 2, and group member 3.
